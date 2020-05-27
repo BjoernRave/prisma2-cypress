@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "jsx": "preserve",
+    "baseUrl": "../node_modules",
+    "target": "es5",
+    "lib": ["es5", "dom", "esnext"],
+    "types": ["cypress"]
+  }
+}
